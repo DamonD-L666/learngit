@@ -4,4 +4,4 @@ Git is free software
 git has a mutable index called stage
 add a line change to stage
 add other line to stage
-Created a new branch is quick
+Created a new branch is quick and simple
