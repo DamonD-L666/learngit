@@ -5,4 +5,4 @@ git has a mutable index called stage
 add a line change to stage
 add other line to stage
 Created a new branch is quick And simple
-add line f1
+add line feature1
