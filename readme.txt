@@ -7,3 +7,4 @@ add other line to stage
 Created a new branch is quick And simple
 add line f1
 add 666
+add a 2018
